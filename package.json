@@ -1,0 +1,21 @@
+{
+  "name": "darker",
+  "displayName": "Alliebeans-Darker",
+  "description": "A Gray VS Code Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alliebeans-Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Alliebeans-Darker-color-theme.json"
+      }
+    ]
+  }
+}
