@@ -34,8 +34,13 @@
 		"list.inactiveFocusBackground": "#3f3f41",
 		"list.hoverBackground": "#333334",
 		"list.activeSelectionForeground": "#00ffff",
+		"list.inactiveSelectionForeground": "#00ffff",
 		"textPreformat.foreground": "#00ffff99",
 		"textCodeBlock.background": "#19191a",
+		"tab.activeBackground": "#222223",
+		"tab.inactiveBackground": "#2a2a31",
+		"tab.activeForeground": "#00ffff",
+		"tab.inactiveForeground": "#4f4f51"
 	},
 	"tokenColors": [
 		{
