@@ -1,10 +1,21 @@
 {
 	"name": "Alliebeans-Darker",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#222223",
+		"editor.foreground": "#f8f8f8",
+		"activityBar.background": "#020319",
+		"activityBar.activeBackground": "#020319",
+		"activityBar.foreground": "#00ffff",
+		"activityBar.inactiveForeground": "#f8f8f877",
+		"sideBarTitle.foreground": "#f8f8f8",
+		"statusBar.background": "#222223",
+		"statusBar.debuggingBackground": "#222223",
+		"statusBar.noFolderBackground": "#222223",
+		"statusBar.foreground": "#f8f8f8",
+		"activityBarBadge.background": "#00ffff",
+		"activityBarBadge.foreground": "#222223",
+		"statusBarItem.remoteHoverForeground": "#000080",
+		"statusBarItem.hoverForeground": "#00ffff",
 	},
 	"tokenColors": [
 		{
