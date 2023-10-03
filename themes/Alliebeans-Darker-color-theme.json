@@ -40,7 +40,11 @@
 		"tab.activeBackground": "#222223",
 		"tab.inactiveBackground": "#2a2a31",
 		"tab.activeForeground": "#00ffff",
-		"tab.inactiveForeground": "#4f4f51"
+		"tab.inactiveForeground": "#4f4f51",
+		"icon.foreground": "#f8f8f8",
+		"selection.background": "#3f3f41",
+		"editor.selectionBackground": "#3f3f41",
+		"editorCursor.foreground": "#ffff55",
 	},
 	"tokenColors": [
 		{
