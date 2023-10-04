@@ -355,6 +355,15 @@
 			}
 		},
 		{
+			"name": "Tag attribute",
+			"scope": [
+				"entity.other.attribute-name.class"
+			],
+			"settings": {
+				"foreground": "#ea3bde"
+			}
+		},
+		{
 			"name": "Library constant",
 			"scope": [
 				"support.constant"
