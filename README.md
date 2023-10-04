@@ -1,6 +1,7 @@
 # Alliebeans-Darker
 ### Theme for VS Code
 
-This theme is based upon [Greyboard](https://github.com/micjohansson/greyboard).
+This VS Code theme is based upon colors from the "Darker" theme in [alliebeans@debian](https://github.com/alliebeans/at-debian).
 
-# WIP
+Inspired by [Greyboard](https://github.com/micjohansson/greyboard).
+Very much personalized token colors, tweaked from [Ayu](https://vscodethemes.com/e/teabyii.ayu/ayu-dark).

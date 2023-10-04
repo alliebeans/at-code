@@ -51,7 +51,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#0b0e14",
+				//"background": "#0b0e14",
 				"foreground": "#e7e4d9"
 			}
 		},
@@ -446,7 +446,6 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"fontStyle": "normal",
 				"foreground": "#39bae6"
 			}
 		},
@@ -542,7 +541,7 @@
 				"markup.raw"
 			],
 			"settings": {
-				"background": "#bfbdb605"
+				//"background": "#bfbdb605"
 			}
 		},
 		{
@@ -551,7 +550,7 @@
 				"markup.raw.inline"
 			],
 			"settings": {
-				"background": "#bfbdb60f"
+				//"background": "#bfbdb60f"
 			}
 		},
 		{
@@ -561,7 +560,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"background": "#bfbdb60f",
+				//"background": "#bfbdb60f",
 				"foreground": "#acb6bf8c"
 			}
 		},
@@ -626,7 +625,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"background": "#bfbdb60f",
+				//"background": "#bfbdb60f",
 				"foreground": "#39bae6"
 			}
 		},
@@ -645,7 +644,7 @@
 				"text.html.markdown meta.dummy.line-break"
 			],
 			"settings": {
-				"background": "#acb6bf8c",
+				//"background": "#acb6bf8c",
 				"foreground": "#acb6bf8c"
 			}
 		},
@@ -655,7 +654,7 @@
 				"punctuation.definition.markdown"
 			],
 			"settings": {
-				"background": "#bfbdb6",
+				//"background": "#bfbdb6",
 				"foreground": "#acb6bf8c"
 			}
 		}
