@@ -1,8 +1,10 @@
 {
-  "name": "darker",
-  "displayName": "Alliebeans-Darker",
+  "name": "alliebeans-darker",
+  "displayName": "alliebeans-darker",
   "description": "A Gray Theme with Cyan Accents for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "assets/alliebeans-darker-color-theme_128px.png",
+  "readme": "README.md",
   "engines": {
     "vscode": "^1.82.0"
   },
@@ -12,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Alliebeans-Darker",
+        "label": "alliebeans-darker",
         "uiTheme": "vs-dark",
-        "path": "./themes/Alliebeans-Darker-color-theme.json"
+        "path": "./themes/dark.alliebeans-darker-color-theme.json"
       }
     ]
   }

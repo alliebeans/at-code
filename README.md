@@ -1,4 +1,4 @@
-# Alliebeans-Darker
+# alliebeans-darker
 ### A Gray Theme with Cyan Accents for VS Code
 
 This VS Code theme is based upon colors from the "Darker" theme in [alliebeans@debian](https://github.com/alliebeans/at-debian).
