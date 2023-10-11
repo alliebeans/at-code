@@ -42,7 +42,8 @@
 		"tab.activeForeground": "#00ffff",
 		"tab.inactiveForeground": "#4f4f51",
 		"icon.foreground": "#f8f8f8",
-		"selection.background": "#3f3f41",
+		"selection.background": "#020319",
+		"selection.foreground": "#f8f8f8",
 		"editor.selectionBackground": "#3f3f41",
 		"editorCursor.foreground": "#ffff55",
 		"list.warningForeground": "#ebe3a4",
@@ -51,7 +52,6 @@
 	"tokenColors": [
 		{
 			"settings": {
-				//"background": "#0b0e14",
 				"foreground": "#e7e4d9"
 			}
 		},
