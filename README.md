@@ -10,7 +10,7 @@ This theme was inspired by [Greyboard](https://github.com/micjohansson/greyboard
 
 ## Installation
 
-1. Clone repository
+1. Clone repository.
 2. Open VS Code.
-3. `Ctrl + Shift + P > Extensions: Install from VSIX...`
-4. Select .vsix file in directory `latest/`
+3. `Ctrl + Shift + P > Extensions: Install from VSIX...`.
+4. Select .vsix file in directory `latest/`.
