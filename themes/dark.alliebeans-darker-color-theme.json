@@ -71,7 +71,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#0008ff"
+				"foreground": "#1658ff"
 			}
 		},
 		{
@@ -138,7 +138,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#156c6f"
+				"foreground": "#198487"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 				"keyword"
 			],
 			"settings": {
-				"foreground": "#156c6f"
+				"foreground": "#198487"
 			}
 		},
 		{
@@ -193,7 +193,7 @@
 				"punctuation.definition.template-expression"
 			],
 			"settings": {
-				"foreground": "#156c6f"
+				"foreground": "#198487"
 			}
 		},
 		{
@@ -202,7 +202,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#156c6f"
+				"foreground": "#198487"
 			}
 		},
 		{
@@ -240,7 +240,7 @@
 				"storage.type.function"
 			],
 			"settings": {
-				"foreground": "#156c6f"
+				"foreground": "#198487"
 			}
 		},
 		{
@@ -472,7 +472,7 @@
 				"constant.numeric.line-number.match"
 			],
 			"settings": {
-				"foreground": "#156c6f"
+				"foreground": "#198487"
 			}
 		},
 		{
