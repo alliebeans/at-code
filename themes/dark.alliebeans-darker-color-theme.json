@@ -100,7 +100,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#d2a6ff"
+				"foreground": "#cf5fff"
 			}
 		},
 		{
@@ -282,7 +282,7 @@
 				"support.function.go"
 			],
 			"settings": {
-				"foreground": "#dedbdb"
+				"foreground": "#dbdede"
 			}
 		},
 		{
@@ -292,7 +292,8 @@
 				"support.macro"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#41efec",
+				"fontStyle": "bold",
 			}
 		},
 		{
@@ -369,7 +370,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f29668"
+				"foreground": "#cf5fff"
 			}
 		},
 		{
@@ -380,7 +381,7 @@
 				"source.go storage.type"
 			],
 			"settings": {
-				"foreground": "#39bae6"
+				"foreground": "#39d2e6"
 			}
 		},
 		{
@@ -454,7 +455,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#39bae6"
+				"foreground": "#39cfe6"
 			}
 		},
 		{
